@@ -1,0 +1,21 @@
+POST /_p/api/getStoreV1?localeCode=ca HTTP/2
+Host: www.ubereats.com
+Cookie: dId=aedd96d3-6a40-498f-a826-255d1e6adcfb; marketing_vistor_id=17ff07a1-3728-4c04-ae64-896877f9b7b0; uev2.gg=true; CONSENTMGR=c1:1%7Cc2:1%7Cc3:1%7Cc4:1%7Cc5:1%7Cc6:1%7Cc7:1%7Cc8:1%7Cc9:1%7Cc10:1%7Cc11:1%7Cc12:1%7Cc13:1%7Cc14:1%7Cc15:1%7Cts:1698264825567%7Cconsent:true; _scid=ccb10732-4e74-48bb-a9b8-a403b354e044; _gcl_au=1.1.71845391.1698264826; _fbp=fb.1.1698264830996.1090244431; _tt_enable_cookie=1; _ttp=VUaT1EG1uS2mDIcM_DtPMO5rlHt; uev2.id.xp=6027701d-47ec-4f83-9fef-4e3f118f1dec; uev2.id.session=6a4e4a42-2dee-46bd-8222-b59c2647c555; uev2.ts.session=1699454469537; jwt-session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7Il9fand0X3JwY19wcm90ZWN0aW9uX2V4cGlyZXNfYXRfbXMiOjE2OTk1NDEzODY1NTksIl9fand0X3JwY19wcm90ZWN0aW9uX3V1aWQiOiIxMjFjMTYzZC1hN2YxLTQyMmYtYTA2Zi0wODE2YWZkYTg5ZmQiLCJfX2p3dF9ycGNfcHJvdGVjdGlvbl9jcmVhdGVkX2F0X21zIjoxNjk5NDU0NDY5NTU5fSwiaWF0IjoxNjk5NDU0NDY5LCJleHAiOjE2OTk1NDA4Njl9.WdCtwpOCY0kcMqxUA7C-YkhGxNvTrQn4yj6CbDtFUqk; utag_main_v_id=018b6878bebf0013efc1bfe9592902074001b06c00b78; utag_main__sn=2; utag_main_ses_id=1699454471827%3Bexp-session; utag_main__pn=1%3Bexp-session; utm_medium=undefined; fm_conversion_id=undefined; utm_source=undefined; utag_main__ss=0%3Bexp-session; _userUuid=; _scid_r=ccb10732-4e74-48bb-a9b8-a403b354e044; _gid=GA1.2.1425708050.1699454472; _ga=GA1.1.1393685174.1698264826; _sctr=1%7C1699419600000; _yjsu_yjad=1699454473.444621f1-b44a-4a20-851a-727b2e4e3f74; uev2.diningMode=DELIVERY; mcd_restaurant=Healthy Planet (322 Yonge Street, Toronto); _gat_tealium_0=1; utag_main__se=10%3Bexp-session; utag_main__st=1699456849323%3Bexp-session; _uetsid=dd7acb807e4411eeafd7a52d19975f6d; _uetvid=0359ed60737311ee8d412fbd4d3b5e99; _ga_P1RM71MPFP=GS1.1.1699454472.3.1.1699455050.59.0.0
+Content-Length: 123
+Sec-Ch-Ua: "Chromium";v="117", "Not;A=Brand";v="8"
+Content-Type: application/json
+X-Uber-Client-Gitref: 551d143d9deafbc387f2a171d7fe6a55f7ecc665
+X-Csrf-Token: x
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+Sec-Ch-Ua-Platform: "Linux"
+Accept: */*
+Origin: https://www.ubereats.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ubereats.com/ca/store/south-st-burger-john-st/tsa8mDLVQ-a9hnnbGAClOA
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+{"storeUuid":"b6c6bc98-32d5-43e6-bd86-79db1800a538","diningMode":"DELIVERY","time":{"asap":true},"cbType":"EATER_ENDORSED"}
